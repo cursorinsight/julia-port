@@ -1,0 +1,16 @@
+{application, julia_port,
+ [{description, "An OTP application"},
+  {vsn, "0.4.0"},
+  {registered, []},
+  {mod, { julia_port_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache"]},
+  {links, []}
+ ]}.

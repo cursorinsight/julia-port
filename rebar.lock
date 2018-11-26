@@ -1,0 +1,4 @@
+[{<<"gen_driver">>,
+  {git,"https://github.com/cursorinsight/generic-linked-in-driver.git",
+       {ref,"5937cbd41c59624292abda40b70dc224e6f35b16"}},
+  0}].
